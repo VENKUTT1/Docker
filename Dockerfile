@@ -1,0 +1,10 @@
+FROM ubuntu
+MAINTAINER venkutt
+RUN apt install nginx
+VOLUME test
+ENV JAVA_PATH
+ENTRYPOINT
+CMD
+EXPOSE
+ADD
+COPY
